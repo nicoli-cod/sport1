@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Cal+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cascadia+Mono:ital,wght@0,200..700;1,200..700&display=swap');
+
+
+body {
+    background-image : url("../images/3image.jpg") ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size : 1565px;
+}
+
+h1 {
+    text-align: left;
+    font-family: "Cal Sans", sans-serif;
+    color: rgb(58, 144, 230);
+    font-size: 200%;
+}
+
+h2 {
+    text-align: left;
+    color: rgb(28, 5, 58);
+    font-size: 135%;
+    font-family: "Cascadia Mono", sans-serif ;
+}
+
+h3 {
+    color: rgb(224, 152, 57);
+    font-size: 150%;
+}
+
+h5 {
+    text-align: center;
+    color: rgb(217, 139, 37);
+    font-size: 30px;
+   
+}
+
+h6 {
+    text-align: left;
+    color:rgb(83, 51, 9) ;
+    font-family: "Cascadia Mono", sans-serif;
+    font-size: 20px;
+}
+
+
+th,td {
+    border: 2px solid rgb(28, 180, 222);
+    border-radius: 5px;
+
+}
+img {
+    height: 475px;   
+    float: right;
+    
+}
+tr{
+    color: rgb(2, 8, 12);
+    font-size: 20px;
+    font-family:"Cascadia Mono", sans-serif ;
+}
